@@ -18,7 +18,7 @@ public class CubeSpawner : MonoBehaviour
         size = cube.transform.localScale.x;
         for(int i = 0; i < 3; i++)
         {
-            
+            print("i");
             
         }
         
